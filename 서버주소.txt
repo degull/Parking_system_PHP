@@ -1,0 +1,12 @@
+서버ip주소/Parking_PHP
+localhost/Parking_PHP
+localhost:포트번호/Parking_PHP
+localhost:80/Parking_PHP
+127.0.0.1/Parking_PHP
+127.0.0.1:80/Parking_PHP
+
+웹서버포트 기본 80
+
+ctrl+shift+r   (새로고침)
+
+출차서비스 초기제작 후 php 작업
